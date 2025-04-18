@@ -1,5 +1,3 @@
-# fgser
-(源码免费分享) 大学生互动交流网站设计与实现 计算机毕业设计（源码+万字论文+ppt），毕设，java毕业设计，基于微信小程序，小程序毕业设计 ，机器学习，大数据毕业设计，Python+Django+Vue ，SpringBoot Vue，SSM，JSP ，Uniapp，hadoop和spark框架，hive框架,php，node，jsp ，ThinkPhp，Flask，Koa，Express，Springcloud，ASP.Net，C#，Mysql，机器学习，深度学习
 
 
 - **免费领取项目源码、资料分享，请加QQ群：994673953**
